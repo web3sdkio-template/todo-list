@@ -1,0 +1,11 @@
+{
+  "name": "todo-list-contract",
+  "scripts": {
+    "build": "npx web3sdkio@latest detect",
+    "deploy": "npx web3sdkio@latest deploy",
+    "release": "npx web3sdkio@latest release"
+  },
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
+}
